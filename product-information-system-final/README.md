@@ -19,4 +19,4 @@ Mini Project 1 — Product Information System.
 ## Menjalankan
 Letakkan folder ini di `htdocs`, kemudian buka:
 
-`http://localhost/product-information-system/`
+`http://localhost/product-information-system-final/index.php`
